@@ -1,41 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaSweeper2000:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7163bb92-f43d-461a-a8ed-5f58ceadca79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSweeper2000.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/bomb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/bombed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/closed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/flaged.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/inform.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/nobomb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/num1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/num2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/num3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/num4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/num5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/num6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/num7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/num8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/opened.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/img/zero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSweeper.java" afterDir="false" />
+    <list default="true" id="7163bb92-f43d-461a-a8ed-5f58ceadca79" name="Changes" comment="next8">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaSweeper2000_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sweeper/Bomb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sweeper/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sweeper/Coord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sweeper/Flag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sweeper/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sweeper/GameStat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sweeper/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sweeper/Ranges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaSweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSweeper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,30 +48,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="JavaSweeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaSweeper" />
       <module name="JavaSweeper2000" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="JavaSweeper2000" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="JavaSweeper2000" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,6 +81,14 @@
       <option name="presentableId" value="Default" />
       <updated>1658654734582</updated>
     </task>
+    <task id="LOCAL-00001" summary="next">
+      <created>1658660703867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658660703867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,5 +101,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="next" />
+    <MESSAGE value="next2" />
+    <MESSAGE value="next3" />
+    <MESSAGE value="next4" />
+    <MESSAGE value="next5" />
+    <MESSAGE value="next6" />
+    <MESSAGE value="next7" />
+    <MESSAGE value="next8" />
+    <option name="LAST_COMMIT_MESSAGE" value="next8" />
   </component>
 </project>
